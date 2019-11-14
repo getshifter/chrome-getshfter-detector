@@ -1,6 +1,6 @@
-if (document.childNodes.length === 3) {
+if (document.lastChild.data) {
   chrome.runtime.sendMessage(
-    {isShifter: document.lastChild.textContent.includes("created by Shifter Generator")
+    {isShifter: document.lastChild.data.includes("created by Shifter Generator")
   }, function(response) {})
 } else {
   chrome.runtime.sendMessage(
