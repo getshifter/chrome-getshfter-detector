@@ -1,4 +1,4 @@
-# Getshfter Detector for chrome
+# Getshfter Detector for browsers
 
 The Shifter icon is displayed in the menu bar. ![Not Shifter](./Shifter_Mono_19.png)
  When a static site created with Shifter is detected, it is colored. ![Shifter!](./Shifter_Color_19.png)
