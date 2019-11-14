@@ -10,7 +10,7 @@ function colorIcon() {
         },
         tabId : tabId
       });
-      if (typeof browser) {
+      if (typeof browser !== 'undefined') {
         browser.pageAction.show(tabId)
       }
     }
