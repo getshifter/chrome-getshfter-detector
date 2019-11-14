@@ -6,7 +6,7 @@ The Shifter icon is displayed in the menu bar. ![Not Shifter](./Shifter_Mono_19.
 
 ## How to install. (Chrome)
 
-1. clone this repo to local.
+1. clone this repo to local or download zipfile from [chrome-getshfter-detector/releases](https://github.com/getshifter/chrome-getshfter-detector/releases).
 2. open `chrome://extensions/`
 3. turn on `developer mode`
 4. “Load unpacked extension…” and select `path/to/chrome-getshfter-detector` directory.
