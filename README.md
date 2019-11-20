@@ -14,7 +14,7 @@ The Shifter icon is displayed in the menu bar. ![Not Shifter](./Shifter_Mono_19.
 
 ## How to install. (Firefox)
 
-Insall from release(xpi)
+Install from release(xpi)
 
 [chrome-getshfter-detector/releases](https://github.com/getshifter/chrome-getshfter-detector/releases)
 
